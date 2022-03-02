@@ -1,0 +1,19 @@
+g++ -c V6_SV.cpp
+g++ -o V6_SV V6_SV.o
+./V6_SV
+
+g++ -c V4_CL.cpp
+g++ -o V4_CL V4_CL.o
+./V4_CL
+
+2015310464
+
+2001:0:c38c:c38c:309b:2ba4:227a:725a
+
+49500
+
+Y
+
+Y
+
+OK
